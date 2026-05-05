@@ -1,0 +1,7 @@
+{
+  "cleanUrls": true,
+  "rewrites": [
+    { "source": "/intake", "destination": "/intake.html" },
+    { "source": "/lockdown", "destination": "/lockdown_01.html" }
+  ]
+}
